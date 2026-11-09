@@ -3,6 +3,7 @@ Rencana konten :
 - Next js
 - Vercel
 - Tailwind
-Rencana fitur 2 :
+Rencana fitur :
 a
 b
+c
