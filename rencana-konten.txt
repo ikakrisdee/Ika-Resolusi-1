@@ -2,3 +2,4 @@ Rencana konten :
 - PHP
 - Next js
 - Vercel
+- Tailwind
